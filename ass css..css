@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+.boxmenu{width:200px; height:300px; padding:20px;
+margin:10px; border-radius: 10px; border-shadow: 5px 5px 5px gray;float:left}
+
+ 
+ .san-pham{ border-radius:10 pixel; 
+ box-shadow: blur-radius: 5 pixel  gray;
+ padding:10 pixel;
+ margin:5 pixel;
+ text-align:center}
+
+ .san-pham .ten{ font-size:larger; font-kerning: auto
+ font-variant:small-caps;
+ color:#FFC609;font-kerning: auto;font-family:"iCiel Altus Serif", "iCiel Brush Up", "iCiel ButterScotch";font-size: 25px}
+
+ .san-pham img{max-width:95%}
+ 
+ .san-pham .gia{color:white; font-family:"iCiel Altus Serif", "iCiel Brush Up", "iCiel ButterScotch";
+ font-weight:bold;font-size: 20px}
+ 
+ .san-pham .gia del{color:gray}
+.price{align-content: center;
+		font-family:"Guthen Bloots Personal Use";
+		color: red;
+		font-size:20px}
+
+
+ul.vmenu {margin: 0px;
+		padding:0px;
+		border-radius:5px;
+			box-shadow: 0 0 5px orangered;
+			list-style:none;
+			width: 250px;
+		}
+		ul.vmenu>li>a{
+			display:block;
+			line-height: 30px;
+			border-bottom:1px dotted orangered;
+			text-decoration: none;
+			font-variant: small-caps;
+			color: orangered;
+			padding-left: 25px;
+			background-color: white;
+			
+		}
+		ul.vmenu>li>a:hover{
+				background-color:black;
+			font-weight:bolder;
+			color:white; }
+
+.boxheader:hover{
+			background-color:white;
+			font-weight:bolder;
+			color:black; }
+
+.boxheader{width:100px; position: relative;
+	background-color:black;
+	float:left;
+	padding: 25px;}
+
+.boxmenu1{width:810px;
+	height:10px;
+	background-color:white;
+	clear:both;
+	padding: 45px;
+text-align: center}
+
+.boxmenu2{width:810px;
+	height:10px;
+	background-color:black;
+	float:left;
+	padding: 45px}
+
+.waffle{width:810px;
+	height:700px;
+	background-color:black;
+	float;left;
+	padding: 45px;
+text-align: center}
+.boxmenu:hover{background-color:orange;cursor: pointer }
+.ten:hover{color:white; }
+
+table, td, th {
+  border: 1px solid black; color: white; width: 800px
+}
+
+table {
+  border-collapse: collapse; color: white
+  width: 100%;
+}
+
+th {
+  height: 50px; color: white; text-align: left
+}
+.highlight:hover{color:#FFCC48}
+td:hover{color:#FFCC48;cursor: pointer}
+
+
+
+

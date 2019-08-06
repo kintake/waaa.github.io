@@ -1,0 +1,32 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.box1{
+	height:700px;
+	background-color:black; 
+	padding: 45px 0px 0px 70px; text-align: left;
+	}
+.box2{
+	height:1000px;
+	background-color:black;
+	padding: 45px 0px 0px 70px; text-align: left;
+	}
+ .ten{ font-size:larger; font-kerning: auto
+ font-variant:small-caps;
+ color:#FFC609;font-kerning: auto;font-family:"Helvetica Neue";font-size: 35px}
+
+.title{ font-size:larger; font-kerning: auto
+ font-variant:small-caps;
+ color:white;font-kerning: auto;font-family:'iCiel Altus Serif', 'iCiel Brush Up', 'iCiel ButterScotch';font-size: 30px}
+.title2{ font-size:larger; font-kerning: auto
+ font-variant:small-caps;
+ color:black;font-kerning: auto;font-family:'iCiel Altus Serif', 'iCiel Brush Up', 'iCiel ButterScotch';font-size: 30px;}
+
+.subheader{ font-size:larger; font-kerning: auto
+ font-variant:small-caps;
+ color:black;font-kerning: auto;font-family: 'iCiel Brush Up', 'iCiel ButterScotch';font-size: 30px}
+.subheader:hover{color: aqua}
+
+.lala{color: aliceblue; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";text-align-last: center}
+
+
+
